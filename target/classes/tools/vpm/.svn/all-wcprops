@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ipg-iws-autotest/!svn/ver/1317/trunk/src/main/java/tools/vpm
+END
+VirtualPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/VirtualPrinter.java
+END
+VirtualPrinterPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/VirtualPrinterPool.java
+END
+StackInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/StackInfo.java
+END
+PrinterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ipg-iws-autotest/!svn/ver/1315/trunk/src/main/java/tools/vpm/PrinterManager.java
+END
+PrinterRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/PrinterRegistration.java
+END
+ProductStatusCap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/ProductStatusCap.java
+END

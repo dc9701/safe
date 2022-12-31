@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ipg-iws-autotest/!svn/ver/1317/trunk/src/main/java/tools/vpm/apiTools
+END
+TrustSSLClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/apiTools/TrustSSLClient.java
+END
+ApiResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/apiTools/ApiResponse.java
+END
+ApiRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ipg-iws-autotest/!svn/ver/1317/trunk/src/main/java/tools/vpm/apiTools/ApiRequest.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/vpm/apiTools/ContentType.java
+END

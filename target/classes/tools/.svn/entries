@@ -1,0 +1,43 @@
+10
+
+dir
+1363
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest/trunk/src/main/java/tools
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest
+
+
+
+2015-06-18T08:56:25.736565Z
+1350
+yan-bill.wan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+537f6084-f0bf-45fe-b2e0-471ccbb1d3dd
+
+commonTools
+dir
+
+imgComparer
+dir
+
+printHistory
+dir
+
+userAccount
+dir
+
+vpm
+dir
+

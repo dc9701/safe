@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/userAccount
+END
+AccountManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/userAccount/AccountManagement.java
+END
+AccountDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/userAccount/AccountDescriptor.java
+END
+AccountsFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/userAccount/AccountsFileManager.java
+END
+RegisteringUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/userAccount/RegisteringUser.java
+END
+AccountsListDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/userAccount/AccountsListDescriptor.java
+END

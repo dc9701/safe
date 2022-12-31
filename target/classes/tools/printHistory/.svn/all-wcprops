@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/printHistory
+END
+aws-credentials.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/printHistory/aws-credentials.properties
+END
+email-body.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/printHistory/email-body.txt
+END
+MailSenderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/printHistory/MailSenderInfo.java
+END
+MyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/printHistory/MyAuthenticator.java
+END
+SESSendEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ipg-iws-autotest/!svn/ver/1204/trunk/src/main/java/tools/printHistory/SESSendEmail.java
+END
