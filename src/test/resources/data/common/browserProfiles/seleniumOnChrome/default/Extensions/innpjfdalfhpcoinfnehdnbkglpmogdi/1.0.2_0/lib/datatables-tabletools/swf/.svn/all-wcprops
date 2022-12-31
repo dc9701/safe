@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/ipg-iws-autotest/!svn/ver/526/trunk/src/test/resources/data/common/browserProfiles/seleniumOnChrome/default/Extensions/innpjfdalfhpcoinfnehdnbkglpmogdi/1.0.2_0/lib/datatables-tabletools/swf
+END
+copy_csv_xls.swf
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/ipg-iws-autotest/!svn/ver/526/trunk/src/test/resources/data/common/browserProfiles/seleniumOnChrome/default/Extensions/innpjfdalfhpcoinfnehdnbkglpmogdi/1.0.2_0/lib/datatables-tabletools/swf/copy_csv_xls.swf
+END
+copy_csv_xls_pdf.swf
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/ipg-iws-autotest/!svn/ver/526/trunk/src/test/resources/data/common/browserProfiles/seleniumOnChrome/default/Extensions/innpjfdalfhpcoinfnehdnbkglpmogdi/1.0.2_0/lib/datatables-tabletools/swf/copy_csv_xls_pdf.swf
+END

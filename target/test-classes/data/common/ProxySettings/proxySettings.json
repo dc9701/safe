@@ -1,0 +1,8 @@
+{
+    "configFileType": "proxySettings",
+    "proxyConfigures": [
+    	{"*":"HP Network",      "ipPerfix":"15",		"proxyDomain":"proxy-ccy.houston.hp.com",	"proxyPort":"1080"},
+    	{"*":"HP Network",      "ipPerfix":"16",		"proxyDomain":"proxy-ccy.houston.hp.com",	"proxyPort":"1080"}
+   ]
+        
+}

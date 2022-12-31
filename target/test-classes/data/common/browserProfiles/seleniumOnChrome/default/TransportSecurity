@@ -1,0 +1,11 @@
+{
+   "oaksvqaa0CeuvG29C14TPA2d2EqO6pHbOAq+3u04NRo=": {
+      "created": 1396002848.599117,
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1427538848.599117,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "static_spki_hashes": [  ],
+      "sts_include_subdomains": false
+   }
+}

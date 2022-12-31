@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing
+END
+test-phish-simple.sbstore
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing/test-phish-simple.sbstore
+END
+test-phish-simple.cache
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing/test-phish-simple.cache
+END
+test-malware-simple.sbstore
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing/test-malware-simple.sbstore
+END
+test-malware-simple.cache
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing/test-malware-simple.cache
+END
+test-malware-simple.pset
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing/test-malware-simple.pset
+END
+test-phish-simple.pset
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/safebrowsing/test-phish-simple.pset
+END

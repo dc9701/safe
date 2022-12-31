@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default
+END
+sessionCheckpoints.json
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ipg-iws-autotest/!svn/ver/587/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/sessionCheckpoints.json
+END
+extensions.json
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/extensions.json
+END
+addons.json
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/addons.json
+END
+signons.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ipg-iws-autotest/!svn/ver/881/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/signons.sqlite
+END
+SiteSecurityServiceState.txt
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/SiteSecurityServiceState.txt
+END
+prefs.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/prefs.js
+END
+extensions.ini
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/extensions.ini
+END
+directoryLinks.json
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/directoryLinks.json
+END
+cookies.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/cookies.sqlite
+END
+sessionstore.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/sessionstore.js
+END
+times.json
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ipg-iws-autotest/!svn/ver/881/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/times.json
+END
+blocklist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ipg-iws-autotest/!svn/ver/587/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/blocklist.xml
+END
+cert8.db
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/cert8.db
+END
+localstore.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/localstore.rdf
+END
+content-prefs.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/content-prefs.sqlite
+END
+xulstore.json
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/xulstore.json
+END
+compatibility.ini
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/compatibility.ini
+END
+formhistory.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ipg-iws-autotest/!svn/ver/881/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/formhistory.sqlite
+END
+healthreport.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/healthreport.sqlite
+END
+pluginreg.dat
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/pluginreg.dat
+END
+mimeTypes.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/mimeTypes.rdf
+END
+logins.json
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/logins.json
+END
+places.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/places.sqlite
+END
+search.json
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/search.json
+END
+parent.lock
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ipg-iws-autotest/!svn/ver/587/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/parent.lock
+END
+mo-ext-usage.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ipg-iws-autotest/!svn/ver/925/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/mo-ext-usage.sqlite
+END
+permissions.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/permissions.sqlite
+END
+key3.db
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ipg-iws-autotest/!svn/ver/881/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/key3.db
+END
+secmod.db
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ipg-iws-autotest/!svn/ver/881/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/secmod.db
+END
+webappsstore.sqlite
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ipg-iws-autotest/!svn/ver/1206/trunk/src/test/resources/data/common/browserProfiles/seleniumOnFirefox/default/webappsstore.sqlite
+END

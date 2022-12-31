@@ -1,0 +1,55 @@
+{
+    "configFileType": "uiMap",
+    "application": 
+	{
+        "properties": 
+		{
+            "targetApplicationName":"Autotest Training",
+            "targetApplicationVersion":"1.0+",
+            "defaultPage":"samplePage"
+        },
+        "pages":[		            
+            {
+             "*": "************************************************************************************",
+             "*": "uimap for sample.html",
+             "*": "************************************************************************************" },
+            {
+                "properties": { "pageName":"samplePage", "path":"/example.html", "defaultView":"sample" },
+                "views": [
+					{
+		             "*": "************************************************************************************",
+		             "*": "Views - For initial sign in & device activation",
+		             "*": "************************************************************************************" 
+		            },
+                    { "viewName":"sample", "defaultArea":"sample", "activeAreas":[ "sample" ] }
+					
+                ],
+                "areas": [
+					{
+		             "*": "************************************************************************************",
+		             "*": "Areas - For initial sign in & device activation views",
+		             "*": "************************************************************************************" 
+		            },
+                    { "areaName":"sample","locator":"css=div#body",
+                        "elements":[
+                            { "elementName":"testButton", 			"locator":"button#btn" },
+                            { "elementName":"buttonResult", 		"locator":"div#btnresult" },
+                            { "elementName":"testTextbox", 			"locator":"input#textbox" },
+                            { "elementName":"testTextboxSubmit", 	"locator":"button#confirmText" },
+                            { "elementName":"textboxResult", 		"locator":"div#iptresult" },
+                            
+                            { "elementName":"enabledButton", 		"locator":"input#enabledButton" },
+                            { "elementName":"disabledButton", 		"locator":"input#disabledButton" },
+                            { "elementName":"enabledSwitch", 		"locator":"button#changeStatus" },
+                            { "elementName":"visibleButton", 		"locator":"input#visibleButton" },
+                            { "elementName":"invisibleButton",	 	"locator":"input#invisibleButton" },
+                            { "elementName":"visibleSwitch", 		"locator":"button#changeDisplay" },
+                            { "elementName":"enabledStatus", 		"locator":"div#statusResult" },
+                            { "elementName":"visibleStatus", 		"locator":"div#visibleResult" }
+                        ]
+                    }
+                ]
+            }
+		]
+    }
+}

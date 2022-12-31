@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ipg-iws-autotest/!svn/ver/250/trunk/src/test/resources/tools/R2QC/Stylesheets/prj
+END
+Lifesaver_soapui.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ipg-iws-autotest/!svn/ver/195/trunk/src/test/resources/tools/R2QC/Stylesheets/prj/Lifesaver_soapui.xsl
+END
+Lifesaver_junit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ipg-iws-autotest/!svn/ver/244/trunk/src/test/resources/tools/R2QC/Stylesheets/prj/Lifesaver_junit.xsl
+END
+Lifesaver_manual.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ipg-iws-autotest/!svn/ver/250/trunk/src/test/resources/tools/R2QC/Stylesheets/prj/Lifesaver_manual.xsl
+END

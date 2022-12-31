@@ -1,0 +1,169 @@
+# =================================================================================================
+# LifesaverContent - US English (default) strs used for Lifesaver Web App messages and page content.
+# 
+# NOTE: dcooper 2013-12-09 - Should be provided by Dev in LifesaverMessages, but I'm creating an 
+#       initial version by hand.
+#
+# You can specialize this file for each language.
+# For example, for French create a messages.fr file
+# =================================================================================================
+
+# =================================================================================================
+# Sign In Screen
+# =================================================================================================
+
+msg.signin.signin.failure.passwordRequired=Password is required
+msg.signin.signin.failure.passwordInvalid=Password doesn't match account
+
+# =================================================================================================
+# Home Screen
+# =================================================================================================
+
+msg.home.header.str=HP Officejet 8040 with Neat\u00ae 1
+
+new.msg.home.headercontent.str1=Activate your HP Officejet 8040 printer to enable scanning to Neat\u00ae, or deactivate it to move it to another account. Log in to get started. Learn more.
+old.msg.home.headercontent.str1=Activate your Officejet 8040 printer to enable NeatScan features, manage activated printers, and learn more about Neat scan. Log in to get started.
+
+new.msg.home.headercontent.str=Activate your HP Officejet 8040 printer to enable scanning to Neat\u00ae, or deactivate it to move it to another account. Learn more.
+old.msg.home.headercontent.str=Activate your Officejet 8040 printer to enable NeatScan features, manage activated printers, and learn more about Neat scan.
+msg.home.infohpc.str=Use your HP Connected account to activate your printer and sign into Neat\u00ae.
+msg.home.infoHD.str=Scan and securely store your receipts, business cards, and documents.
+msg.home.infoNeat.str=View and manage your Neat\u00ae scans via the Neat mobile app (iOS and Android) or the Neat website.
+msg.home.activation.str=Start Activation
+msg.home.activationCon.str=To use your HP Officejet with Neat\u00ae, you will need to activate it.2
+msg.home.activation.btn=Activate Now!
+msg.home.deactivate.link=Want to deactivate a printer?
+msg.home.resources.str=More Resources
+msg.home.driveUtility.str=Use the HP Hard Drive Utility to view files mirrored on the printer's hard drive from the Neat\u00ae cloud
+msg.home.driveUtility.link=Download utility
+new.msg.home.onlineHelp.str=Unable to log in, activate or deactivate your printer, or need help scanning to Neat\u00ae?
+old.msg.home.onlineHelp.str=Unable to log in, activate or deactivate your printer, or need help with Neat\u00ae scan?
+
+msg.home.onlineHelp.link1=See the Online Help
+msg.home.onlineHelp.link2=Try our Interactive Troubleshooter
+msg.home.footnote.str=1. The Neat Company's services.\n\n2. Activation is required to use Neat\u00ae with this printer. Activating through this website creates an HP Connected account and automatically sets up an account with The Neat Company. Before you begin, make sure that your printer is connected to your network and the Internet.
+
+# =================================================================================================
+# All the Link URL
+# =================================================================================================
+
+msg.url.home.infohpc=http://www.neat.com/hp
+msg.url.home.infoNeat=http://www.neat.com/hp
+msg.url.home.driveUtility=http://h20180.www2.hp.com/apps/Nav?h_pagetype=s-002&h_page=hpcom&h_client=s-h-e008-1&h_product=6924025&h_lang=en&h_cc=us
+msg.url.home.onlineHelp1=http://www.hp.com/go/oj8040help
+msg.url.home.onlineHelp2=http://www.hp.com/embed/sfs/doc?client=IWS-neat&lc=en&ProductNameOID=6924027&source=NLP&issue=Neat&srcloc=foot&issue-sub=none&trgt=ts
+msg.url.activate.pageVerify.terms=https://www.neat.com/our-company/policies
+msg.url.activate.pageVerify.NeatPrivacy=https://www.neat.com/our-company/policies/privacy-policy
+msg.url.activate.successful.Neat=http://www.neat.com/hp
+msg.url.activate.successful.NeatHelp=http://www.hp.com/neat/help
+msg.url.activate.successful.download=https://drive.google.com/folderview?id=0B-FTecH4OauMWF9iM1hvSDVaNFE&usp=sharing
+
+msg.url.gnb.privacy=http://www8.hp.com/us/en/privacy/privacy.html
+msg.url.gnb.Cookiesandchoices=http://www8.hp.com/us/en/privacy/privacy.html#hpdct
+msg.url.gnb.termsOfUse=http://www8.hp.com/us/en/privacy/terms-of-use.html
+
+# =================================================================================================
+# LearnMore Screen
+# =================================================================================================
+msg.learnMore.login=Log in using your HP Connected account email and password. If you don’t have an HP Connected account and are activating a printer, you will have an option to create a new HP Connected account on the log-in screen.
+msg.learnMore.printerActivation=Activating your printer is required to use its Neat\u00ae scanning features. To determine if you need to activate your printer, select the Neat\u00ae icon on your printer front panel. You will see an Activation Required message if the printer has not been activated. If you do not see this message your printer is already activated. Log in to see any activated Neat\u00ae enabled printers on your account and access deactivation options.
+msg.learnMore.printerDeactivation=Deactivate your printer if you need to move it to a different account, or if you are going to sell it, return it, or give it away. Deactivation removes the printer from your Neat\u00ae account and disables the Neat\u00ae features on the printer. Neat\u00ae deactivation does not affect any other printer functions or features.
+msg.learnMore.needHelp=Need Help or Support?
+msg.learnMore.helpTitle=HP Officejet 8040 with Neat e-All-in-One Printer \u007C HP\u00ae Support
+
+# =================================================================================================
+# Activate Screen
+# =================================================================================================
+msg.activate.pageVerify.header.str1=Activate your printer
+msg.activate.pageVerify.header.str2=In order to use your Neat\u00ae Scan features you must activate your printer.1
+msg.activate.pageVerify.Network.str=Ensure your printer is turned on and connected to your network, then select Next.
+msg.activate.pageVerify.term.str=Accept The Neat Company Terms and Conditions of Sale 2
+msg.activate.pageVerify.term.link=Terms and Conditions
+msg.activate.pageVerify.privacy.str=To automatically create your Neat\u00ae account, your HP Connected account email will be shared with The Neat Company. The Neat Company Privacy Policy
+msg.activate.pageVerify.privacy.link=The Neat Company Privacy Policy
+msg.activate.pageVerify.btn=Next
+msg.activate.pageVerify.link=Need help connecting your printer to your network?
+msg.activate.pageVerify.footnote.str=1. We will set up a Neat® account using your HP Connected email address.
+
+msg.activate.pageVerify.str=Give us a few seconds while we find your printer...
+msg.activate.activatePage.networkHelp.str=1) Make sure your printer is on.\n2) Look for the WiFi or Ethernet icon in printer control panel.
+msg.activate.activatePage.networkHelp.link=Still not working?
+msg.activate.find.str1=Finding Your Printer
+msg.activate.pageAuto.str1=Activate your printer
+msg.activate.pageAuto.str2=In order to use your Neat® Scan features you must activate your printer.1
+msg.activate.pageAuto.str3=Sorry \u2013 we cannot find your printer on your network.\nCheck your printer\u2019s internet connection
+msg.activate.pageAuto.str4=\u002d Make sure your printer is awake before trying again. Touch your printer control panel to wake up the printer.\n\u002d Select the or icon in the bottom row of your printer display.\n\u002d The network Summary screen will display \u201cIP Address: xxx.xx.xx.xx\u201d and your network name if connected.\n\u002d Select the icon to access Ethernet and Wireless setup options if you are not connected\n\u002d If you are not on the same network as your printer, please activate your printer manually.
+msg.activate.pageAuto.btn=Try Again
+msg.activate.pageAuto.link=activate your printer manually
+msg.activate.pageAuto.link2=Need help connecting?
+msg.activate.pageAuto.err=Your printer still appears to be offline. Please ensure the printer is connected to your network and try again.
+msg.activate.pageAuto.err2=Your printer still appears to be offline. Please ensure the printer is connected to your network, or activate your printer manually
+msg.activate.pageAuto.link3=activate your printer manually.
+
+msg.activate.pageManual.str1=Sorry! We need a little more info
+msg.activate.pageManual.str2=We couldn't complete activation.\nTo help us finish, we need you to enter your activation code from your printer.
+msg.activate.pageManual.str3=To get your printer activation code, touch the Neat icon your printer control panel and follow the instructions there to view information on how to activate. You will be provided an option to print your activation code to make it easier to enter.
+msg.activate.pageManual.str4=Can't find the activation code?
+msg.activate.pageManual.str5=Enter your ID (26 letters and numbers):
+msg.activate.pageManual.btn=Next
+msg.activate.pageManual.str6=Activating...
+msg.activate.pageManual.err1=Invalid activation code again. Please check the code and try again.
+msg.activate.pageManual.err2=Invalid activation code again. If you need assistance completing activation please call 855-785-2777 to speak with our support team.
+msg.activate.pageManual.err3=The printer appears to be offline. Please check your network connections and try again.
+msg.activate.pageManual.err4=The printer still appears to be offline. If you need assistance completing activation, please call 855-785-2777 to speak with our support team.
+msg.activate.pageManual.err4.link=See how to check your printer internet connection
+msg.activate.pageManual.err5=This activation code is already in use. Check the activation code and try again.
+msg.activate.pageManual.err6=We are unable to activate with this code. If you need assistance completing activation, please call 855-785-2777 to speak with our support team.
+
+msg.activate.pageSuccess.str1=Congratulations!
+msg.activate.pageSuccess.str2=Your printer has been activated successfully. There is just one more step.\nYou need to validate your account on the Neat\u00ae website to start scanning to Neat\u00ae.
+msg.activate.pageSuccess.str3=Already have a Neat\u00ae account?
+msg.activate.pageSuccess.str4=If you have a pre-existing Neat\u00ae account, you will be asked to verify your existing account on the Neat\u00ae website. Verifying your account will link your existing Neat\u00ae account to your Officejet 8040.
+msg.activate.pageSuccess.str5=New to the Neat\u00ae World?
+msg.activate.pageSuccess.str6=If you are new to Neat\u00ae or creating a new Neat\u00ae account, your account will be validated when you log into the Neat\u00ae website using your HP Connected username and password.
+msg.activate.pageSuccess.btn=Go to Neat\u00ae website
+msg.activate.pageSuccess.str7=A new window will open up for you to login.
+msg.activate.pageSuccess.resources.str1=HP Hard Drive Utility
+msg.activate.pageSuccess.resources.str2=Use the HP Hard Drive Utility to view files mirrored on the printer's hard drive from the Neat\u00ae cloud.
+msg.activate.pageSuccess.resources.link1=Download utility
+msg.activate.pageSuccess.resources.str3=Activated Printers
+msg.activate.pageSuccess.resources.link2=See a list of my activated printers.
+msg.activate.pageSuccess.resources.str4=Help and Support
+msg.activate.pageSuccess.resources.str5=To learn more about Neat\u00ae and solve problems, visit:\nwww.hp.com/neat/help.
+
+msg.activate.activateSuccess=Printer Successfully Activated
+msg.activate.activateErrorDeviceIDFailure=Invalid activation code. Check the code displayed on the printer's control panel, and then try again.
+msg.activate.activateNullDeviceIDFailure=The device ID must be 26 characters long. Please check the ID and try again.
+msg.activate.activateErrorDeviceIDAlreadyActivated=This printer has already been activated for a different user.
+msg.activate.activateErrorIncompatible=We're sorry, you entered an activation code from an incompatible printer. Please make sure your printer is compatible with this service, and then try again.
+
+# =================================================================================================
+# Print list
+# =================================================================================================
+msg.printList.page.str=You currently have x printer(s) activated
+msg.printList.page.str1=You can deactivate and activate your printer any time you want
+msg.printList.devCode.link=See the Activation Code
+msg.printList.findCode.link=Where can I find the activation code?
+msg.printList.deactivate.btn=Deactivate
+msg.printList.deactivate.str1=Deactivate Printer
+msg.printList.deactivate.str2=Are you sure you want deactivate this printer?
+msg.printList.deactivate.btn1=Yes
+msg.printList.deactivate.btn2=No
+msg.printList.unregistermsg.str=The printer has been deactivated successfully. 
+msg.printList.activateDevices.btn=Activate a New Printer
+
+# =================================================================================================
+# GNB
+# =================================================================================================
+msg.gnb.copyright=\u00a9 2015 Hewlett-Packard Development Company, L.P.
+msg.gnb.copyright.new=© 2015 Hewlett-Packard Development Company, L.P.
+
+# =================================================================================================
+#check print connection
+# =================================================================================================
+msg.check.print.connection=Neat\u00ae Troubleshooting for the HP Officejet 8040
+
+
+
+
+

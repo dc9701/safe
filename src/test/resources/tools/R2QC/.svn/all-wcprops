@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ipg-iws-autotest/!svn/ver/250/trunk/src/test/resources/tools/R2QC
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ipg-iws-autotest/!svn/ver/144/trunk/src/test/resources/tools/R2QC/run.bat
+END
+R2QC_LSR.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ipg-iws-autotest/!svn/ver/195/trunk/src/test/resources/tools/R2QC/R2QC_LSR.pl
+END
+Results2QC.pl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ipg-iws-autotest/!svn/ver/144/trunk/src/test/resources/tools/R2QC/Results2QC.pl
+END

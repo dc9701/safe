@@ -1,0 +1,55 @@
+10
+
+dir
+1363
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest/trunk/src/test/resources/conf/training
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest
+
+
+
+2015-05-21T07:31:28.309835Z
+1282
+yan-bill.wan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+537f6084-f0bf-45fe-b2e0-471ccbb1d3dd
+
+
+
+
+
+
+
+
+((conflict misc dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/misc 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1135 trunk/src/test/resources/conf/training/misc none)) (conflict ws dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/ws 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1060 trunk/src/test/resources/conf/training/ws none)) (conflict browser dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/browser 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1060 trunk/src/test/resources/conf/training/browser none)) (conflict stack dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/stack 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1133 trunk/src/test/resources/conf/training/stack none)) (conflict device dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/device 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1126 trunk/src/test/resources/conf/training/device none)) (conflict sut dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/sut 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1069 trunk/src/test/resources/conf/training/sut none)) (conflict ui dir update deleted deleted (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1050 trunk/src/test/resources/conf/training/ui 0 ) (version https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest 4 1076 trunk/src/test/resources/conf/training/ui none)))
+
+browser
+dir
+
+device
+dir
+
+misc
+dir
+
+stack
+dir
+
+sut
+dir
+
+ui
+dir
+

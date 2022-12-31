@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/sut
+END
+SutWebappOnTest1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/sut/SutWebappOnTest1.properties
+END
+SutWebApp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/sut/SutWebApp.properties
+END
+SutWebappOnDev1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/sut/SutWebappOnDev1.properties
+END
+SutWebappOnProduction.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/sut/SutWebappOnProduction.properties
+END

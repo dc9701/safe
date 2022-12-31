@@ -1,0 +1,34 @@
+10
+
+dir
+1363
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest/trunk/doc/SAFE_PrivateMethods/tools
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest
+
+
+
+2014-10-17T20:07:14.893858Z
+929
+david.c.cooper
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+537f6084-f0bf-45fe-b2e0-471ccbb1d3dd
+
+commonTools
+dir
+
+imgComparer
+dir
+

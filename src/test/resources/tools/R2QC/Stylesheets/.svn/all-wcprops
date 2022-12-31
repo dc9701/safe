@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ipg-iws-autotest/!svn/ver/250/trunk/src/test/resources/tools/R2QC/Stylesheets
+END
+jsunit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ipg-iws-autotest/!svn/ver/2/trunk/src/test/resources/tools/R2QC/Stylesheets/jsunit.xsl
+END
+FitNesse.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ipg-iws-autotest/!svn/ver/2/trunk/src/test/resources/tools/R2QC/Stylesheets/FitNesse.xsl
+END
+junit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ipg-iws-autotest/!svn/ver/2/trunk/src/test/resources/tools/R2QC/Stylesheets/junit.xsl
+END
+soapui.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ipg-iws-autotest/!svn/ver/2/trunk/src/test/resources/tools/R2QC/Stylesheets/soapui.xsl
+END
+SeleniumJunit.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ipg-iws-autotest/!svn/ver/2/trunk/src/test/resources/tools/R2QC/Stylesheets/SeleniumJunit.xsl
+END
+ruby.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ipg-iws-autotest/!svn/ver/2/trunk/src/test/resources/tools/R2QC/Stylesheets/ruby.xsl
+END

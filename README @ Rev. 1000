@@ -1,0 +1,46 @@
+Happy Revision 1000!
+
+This is a historical moment for this repo. for how far we have been through;
+
+From just HP Connected to now supporting even mobile automation;
+
+This multi-platform framework is surely a beast!
+
+In the future, more platform  would/might be supported, like iOS, LEDM, SAL, FirefoxOS, ChromeOS...etc.
+
+While continuously keeping the base framework robust!
+
+Great job, Everyone!
+
+
+
+One thing though, before we continue our steps forward,
+
+may be it's time,
+
+it's time to clean up the repo.
+
+specifically for these...
+
+FROM REV. 1 !!!
+/ipg-iws-autotest/jars
+/ipg-iws-autotest/src/main/webapp/META-INF
+/ipg-iws-autotest/src/test/resources/data/emailAttachment
+/ipg-iws-autotest/src/test/java/test/suites/R1_Oct31_TestSuite.java
+/ipg-iws-autotest/src/test/java/test/suites/testRunner.xml
+
+< Rev. 50
+/ipg-iws-autotest/src/main/java
+/ipg-iws-autotest/src/test/java/test/suites
+
+< Rev. 500
+/ipg-iws-autotest/src/test/java/tools/imgComparer
+/ipg-iws-autotest/src/test/resources/tools
+/ipg-iws-autotest/classes
+/ipg-iws-autotest/src/test/resources/data/SamplePdf
+
+should not exist
+/ipg-iws-autotest/bin
+/ipg-iws-autotest/test-output
+/ipg-iws-autotest/target
+/ipg-iws-autotest/java

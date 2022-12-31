@@ -1,0 +1,27 @@
+10
+
+dir
+1136
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest/trunk/src/test/resources/conf/training/ui/WebApp
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest
+
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+incomplete
+

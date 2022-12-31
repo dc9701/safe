@@ -1,0 +1,90 @@
+<html>
+
+<head><title>Test Target</title>
+<script type="text/javascript">
+
+function btnclicked()
+{
+document.getElementById("btnresult").innerHTML="button clicked";
+}
+
+function textchinaged()
+{
+document.getElementById("iptresult").innerHTML=document.getElementById("textbox").value;
+}
+
+function rndSubmit()
+{
+document.getElementById("rndresult").innerHTML=document.getElementById("rnd1").checked + " "+document.getElementById("rnd2").checked ;
+}
+
+function chkSubmit()
+{
+document.getElementById("chkresult").innerHTML=document.getElementById("ckbox1").checked + " "+document.getElementById("ckbox2").checked ;
+}
+
+function changeStatus()
+{
+if(document.getElementById("enabledButton").disabled)
+	document.getElementById("enabledButton").disabled=false;
+else
+	document.getElementById("enabledButton").disabled=true;
+document.getElementById("statusResult").innerHTML=!document.getElementById("enabledButton").disabled + " "+!document.getElementById("disabledButton").disabled ;
+
+setTimeout("changeStatus2()",10000);
+}
+function changeStatus2()
+{
+if(document.getElementById("disabledButton").disabled)
+	document.getElementById("disabledButton").disabled=false;
+else
+	document.getElementById("disabledButton").disabled=true;
+document.getElementById("statusResult").innerHTML=!document.getElementById("enabledButton").disabled + " "+!document.getElementById("disabledButton").disabled ;
+}
+
+function changeDisplay()
+{
+if(document.getElementById("visibleButton").style.visibility=='hidden')
+	document.getElementById("visibleButton").style.visibility='visible';
+else
+	document.getElementById("visibleButton").style.visibility='hidden';
+document.getElementById("visibleResult").innerHTML=(document.getElementById("visibleButton").style.visibility=='visible') + " "+(document.getElementById("invisibleButton").style.visibility=='visible') ;
+
+setTimeout("changeDisplay2()",10000);
+}
+function changeDisplay2()
+{
+if(document.getElementById("invisibleButton").style.visibility=='hidden')
+	document.getElementById("invisibleButton").style.visibility='visible';
+else
+	document.getElementById("invisibleButton").style.visibility='hidden';
+document.getElementById("visibleResult").innerHTML=(document.getElementById("visibleButton").style.visibility=='visible') + " "+(document.getElementById("invisibleButton").style.visibility=='visible');
+}
+
+</script>
+</head> 
+
+<body>
+<div id="body">
+<p><center><font size =5>Sample</font></center></p>
+<table width=100%>
+
+<tr><td width = 40%>Test Type</td><td width = 30%>Target</td><td width = 30%>Result</td></tr>
+
+<tr><td>Button Test</td><td><button id = "btn" text="Test" onclick="btnclicked()">Test</button></td><td><div id = "btnresult"></div></td></tr>
+<tr><td>Textbox Test</td><td><input id = "textbox" text="Test" onchange="textchinaged()"><button id="confirmText">Submit</button></td><td><div id = "iptresult"></div></td></tr>
+<tr><td>Radio Test</td><td><div id = "rnd"><input id = "rnd1" type="radio" name = "selection" value = "1">Select1</input></div><div id = "rnd"><input id = "rnd2" type="radio" name = "selection" value = "2">Select2</input></div><div><button id="confirmRadio" onclick="rndSubmit()">Submit</button></div></td><td><div id = "rndresult"></div></td></tr>
+<tr><td>Checkbox Test</td><td><div id = "chk"><input id = "ckbox1" type="checkbox" name = "selection" value = "1">Checkbox1</input></div><div id = "chk"><input id = "ckbox2" type="checkbox" name = "selection" value = "2">Checkbox2</input></div><div><button id="confirmCheckbox" onclick="chkSubmit()">Submit</button></div></td><td><div id = "chkresult"></div></td></tr>
+<tr><td>Element Enable Test</td><td><div id = "enabled"><input id = "enabledButton" type="button" value = "Button1"></div><div id = "disabled"><input id = "disabledButton" type="button" value = "Button2" disabled="true"></div><div><button id="changeStatus" onclick="changeStatus()">Switch</button></div></td><td><div id = "statusResult"></div></td></tr>
+<tr><td>Element Visible Test</td><td><div id = "visible"><input id = "visibleButton" type="button" value = "Button1" style="visibility:visible"></div><div id = "invisible"><input id = "invisibleButton" type="button" value = "Button2"  style="visibility:hidden"></div><div><button id="changeDisplay" onclick="changeDisplay()">Switch</button></div></td><td><div id = "visibleResult"></div></td></tr>
+
+
+
+</table>
+
+
+</div>
+</body>
+
+
+</html>

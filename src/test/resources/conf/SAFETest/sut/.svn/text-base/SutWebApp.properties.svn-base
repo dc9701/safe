@@ -1,0 +1,19 @@
+# This file consist the link to respective config properties.
+# Put config files in each config folder and link the file name here.
+
+# Required settings: All the properties will be read in Project class and merged into sut configuration.
+conf.browser=default.properties
+conf.device= default.properties
+conf.misc=   default.properties
+conf.stack=  stage1.properties
+conf.ui =    stage1.properties
+
+# Other general configurations:
+os.ver = Windows 7
+os.language = eng
+os.country = US
+
+test.timeout.page = 30000
+test.timeout.view = 15000
+test.timeout.element = 30000
+test.speed = 200

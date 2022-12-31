@@ -1,0 +1,55 @@
+/* app css stylesheet */
+
+.options {
+    color: #4e575b;
+    text-shadow: none;
+    font: 18px arial, freesans, clean, sans-serif;
+    line-height: 1.4;
+    outline: transparent;
+}
+a, a:visited, a:hover {
+    color: #4e575b;
+    outline: transparent;
+}
+.popup {
+    font-size: 12px;
+    font-family: Helvetica,Arial,sans-serif;
+    width: 200px;
+}
+
+.spacer-20 {
+    margin-top: 20px;
+}
+
+.spacer-5 {
+    margin-top: 5px;
+}
+
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+    height: 300px
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.brown {
+    color: #C24819;
+}
+
+.blue {
+    color: #2B5599;
+}
+
+.lightgray {
+    color: lightgray;
+}
+
+.nowrap {
+    white-space: nowrap;
+}

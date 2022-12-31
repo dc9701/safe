@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ipg-iws-autotest/!svn/ver/1261/trunk/src/test/resources/data/common/browserProfiles/drivers
+END
+iexplore.reg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ipg-iws-autotest/!svn/ver/1229/trunk/src/test/resources/data/common/browserProfiles/drivers/iexplore.reg
+END
+chromedriver
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ipg-iws-autotest/!svn/ver/1261/trunk/src/test/resources/data/common/browserProfiles/drivers/chromedriver
+END
+chromedriver.exe
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ipg-iws-autotest/!svn/ver/1260/trunk/src/test/resources/data/common/browserProfiles/drivers/chromedriver.exe
+END
+IEDriverServer.exe
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ipg-iws-autotest/!svn/ver/1232/trunk/src/test/resources/data/common/browserProfiles/drivers/IEDriverServer.exe
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ipg-iws-autotest/!svn/ver/1017/trunk/src/test/resources/tools/UiMapTool
+END
+createUiMapTool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ipg-iws-autotest/!svn/ver/1017/trunk/src/test/resources/tools/UiMapTool/createUiMapTool.jar
+END
+template.xls
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ipg-iws-autotest/!svn/ver/1002/trunk/src/test/resources/tools/UiMapTool/template.xls
+END
+template.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ipg-iws-autotest/!svn/ver/1002/trunk/src/test/resources/tools/UiMapTool/template.json
+END

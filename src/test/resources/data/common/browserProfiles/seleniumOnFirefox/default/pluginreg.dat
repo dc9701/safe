@@ -1,0 +1,91 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\browser\nppdf32.dll|$
+11.0.10.32|$
+1417588280000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 11.0.10|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AIR\nppdf32.dll|$
+11.0.10.32|$
+1417588280000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 11.0.10|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+NPAUTHZ.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPAUTHZ.DLL|$
+14.0.4730.1010|$
+1263044538000|0|0|0|$
+Office Authorization plug-in for NPAPI browsers|$
+Microsoft Office 2010|$
+1
+0|application/x-msoffice14|14.0.4730.1010|*|$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office14\NPSPWRAP.DLL|$
+14.0.4761.1000|$
+1269433358000|0|0|0|$
+The plug-in allows you to open and edit files using Microsoft Office applications|$
+Microsoft Office 2010|$
+1
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+NPComBrg701.dll|$
+C:\Windows\system32\itruscert\NPComBrg701.dll|$
+1.0.2011.701|$
+1311580152000|0|0|0|$
+iTrusPTA&XEnroll hwPTA,IEnroll,UKeyInstalls for FireFox,version=1.0.0.2|$
+iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin|$
+6
+0|application/pta.itruspta.version.1|PTA|*|$
+1|application/cenroll.cenroll.version.1|CEnroll||$
+2|application/itrusenroll.certenroll.version.1|IEnroll||$
+3|application/hwpta.itrushwpta|hwPTA||$
+4|application/hwwdkey.installwdkey|hwWDkey||$
+5|application/hwepass2001.installepass2001|HwEpass2001||$
+NPSWF32_17_0_0_134.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_17_0_0_134.dll|$
+17.0.0.134|$
+1426746305821|0|0|0|$
+Shockwave Flash 17.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npaxlogin.dll|$
+C:\Program Files (x86)\360\360safe\Utils\npaxlogin.dll|$
+1.0.0.1007|$
+1398162484000|0|0|0|$
+360安全卫士 快速登录|$
+360安全卫士 快速登录|$
+1
+0|application/mozilla-npqihooquicklogin|||$
+np360MMPlugIn.dll|$
+C:\Program Files (x86)\360\360safe\mobilemgr\np360MMPlugIn.dll|$
+2.4.0.1115|$
+1419904852000|0|0|0|$
+360MMPlugin|$
+360MMPlugin|$
+1
+0|application/x360mmplugin|360MMPlugin.dll|dll|$
+
+[INVALID]

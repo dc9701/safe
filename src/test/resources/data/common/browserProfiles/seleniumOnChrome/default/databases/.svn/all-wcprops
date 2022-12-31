@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ipg-iws-autotest/!svn/ver/526/trunk/src/test/resources/data/common/browserProfiles/seleniumOnChrome/default/databases
+END
+Databases.db
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ipg-iws-autotest/!svn/ver/526/trunk/src/test/resources/data/common/browserProfiles/seleniumOnChrome/default/databases/Databases.db
+END
+Databases.db-journal
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ipg-iws-autotest/!svn/ver/526/trunk/src/test/resources/data/common/browserProfiles/seleniumOnChrome/default/databases/Databases.db-journal
+END

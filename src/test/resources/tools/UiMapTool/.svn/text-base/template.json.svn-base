@@ -1,0 +1,167 @@
+{ 
+	"application" : 
+	{ 
+		"properties" : 
+		{ 
+			"ApplicationName" : "HP Photo Hive", 
+			"DesignedFor" : "14.44.1", 
+			"defaultPage" : "landingPage", 
+			"ApplicationVersion" : "1.0+"
+		 }, 
+
+		"pages" : 
+		[ 
+			{ 
+				"*1*" : "*************************************************************************", 
+				"*2*" : "landingPage Page - Click Sign up button to open sign up new account page", 
+				"*3*" : "***********************************************************************"
+			 }, 
+
+			{ 
+				"properties" : 
+				{ 
+					"pageName" : "landingPage", 
+					"path" : "/", 
+					"defaultView" : "landing", 
+					"defaultArea" : "landing"
+				 }, 
+
+				"views" : 
+				[ 
+					{ 
+						"viewName" : "header", 
+						"defaultArea" : "header", 
+						"swipe" : 
+						{ 
+							"left" : "photoHive:AlbumsHome", 
+							"leftSide" : "photoHive:Options"
+						 }
+					 }, 
+
+					{ 
+						"viewName" : "landing", 
+						"defaultArea" : "landing"
+					 }, 
+
+					{ 
+						"viewName" : "footer", 
+						"defaultArea" : "footer"
+					 }
+				 ], 
+
+				"areas" : 
+				[ 
+					{ 
+						"areaName" : "header", 
+						"locator" : "<xpath>=//*[@id='hpphgnav']", 
+						"defaultLocator" : "<xpath>=//*[@id='hpphgnav']", 
+						"elementCount" : "4", 
+						"elements" : 
+						[ 
+							{ 
+								"elementName" : "apps", 
+								"locator" : "<xpath>=//*@class='hpphgnbbar'/a1"
+							 }, 
+
+							{ 
+								"elementName" : "desktopUploader", 
+								"locator" : "<xpath>=//*@class='hpphgnbbar'/a2"
+							 }, 
+
+							{ 
+								"elementName" : "cloudBackup", 
+								"locator" : "<xpath>=//*@class='hpphgnbbar'/a3"
+							 }, 
+
+							{ 
+								"elementName" : "phBeta", 
+								"locator" : "<xpath>=//*@class='hpphgnbox'/div1"
+							 }
+						 ]
+					 }, 
+
+					{ 
+						"areaName" : "landing", 
+						"locator" : "<xpath>=//div[@class='hpphoutbanner']", 
+						"elementCount" : "5", 
+						"elements" : 
+						[ 
+							{ 
+								"elementName" : "phLogo", 
+								"locator" : "<xpath>=//div@class='hpphoutbanner_msg'/div1"
+							 }, 
+
+							{ 
+								"elementName" : "login", 
+								"locator" : "<css>=.cebut.emph.big>div", 
+								"view" : "login:login"
+							 }, 
+
+							{ 
+								"elementName" : "reLogin", 
+								"locator" : "<css>=.cebut.emph.big>div", 
+								"view" : "login:login", 
+								"activator" : "phLogo"
+							 }, 
+
+							{ 
+								"elementName" : "signUp", 
+								"locator" : "<css>=.loginln>a", 
+								"view" : "CreateAccount:CreateAccount"
+							 }, 
+
+							{ 
+								"elementName" : "crtateUser", 
+								"locator" : "<xpath>=//*text()='{{msg.create.user}}'/divtext='{{msg.user.name}}'", 
+								"view" : "CreateAccount:CreateAccount"
+							 }
+						 ]
+					 }, 
+
+					{ 
+						"areaName" : "footer", 
+						"locator" : "<xpath>=//div[@class='hpphoutfoot']", 
+						"elementCount" : "7", 
+						"elements" : 
+						[ 
+							{ 
+								"elementName" : "appsFooter", 
+								"locator" : "<xpath>=//div@class='lnks'/div1"
+							 }, 
+
+							{ 
+								"elementName" : "desktopUploaderFooter", 
+								"locator" : "<xpath>=//div@class='lnks'/div2"
+							 }, 
+
+							{ 
+								"elementName" : "cloudBackupFooter", 
+								"locator" : "<xpath>=//div@class='lnks'/div3"
+							 }, 
+
+							{ 
+								"elementName" : "supportAndHelp", 
+								"locator" : "<xpath>=//div@class='lnks'/div4"
+							 }, 
+
+							{ 
+								"elementName" : "termsAndConditions", 
+								"locator" : "<xpath>=//div@class='lnks'/div5"
+							 }, 
+
+							{ 
+								"elementName" : "privacy", 
+								"locator" : "<xpath>=//div@class='lnks'/div6"
+							 }, 
+
+							{ 
+								"elementName" : "copyRight", 
+								"locator" : "<xpath>=//div@class='copyw'"
+							 }
+						 ]
+					 }
+				 ]
+			 }
+		 ]
+	 }
+ }

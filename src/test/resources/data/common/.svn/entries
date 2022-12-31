@@ -1,0 +1,34 @@
+10
+
+dir
+1363
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest/trunk/src/test/resources/data/common
+https://csvnatl-pro.atlanta.hp.com:18580/svn/ipg-iws-autotest
+
+
+
+2015-05-21T07:31:28.309835Z
+1282
+yan-bill.wan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+537f6084-f0bf-45fe-b2e0-471ccbb1d3dd
+
+ProxySettings
+dir
+
+browserProfiles
+dir
+

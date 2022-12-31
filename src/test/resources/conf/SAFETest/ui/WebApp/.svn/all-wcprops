@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ipg-iws-autotest/!svn/ver/1359/trunk/src/test/resources/conf/SAFETest/ui/WebApp
+END
+messages.us
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/ui/WebApp/messages.us
+END
+content.us
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ipg-iws-autotest/!svn/ver/1354/trunk/src/test/resources/conf/SAFETest/ui/WebApp/content.us
+END
+uiMap.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ipg-iws-autotest/!svn/ver/1359/trunk/src/test/resources/conf/SAFETest/ui/WebApp/uiMap.json
+END

@@ -1,0 +1,95 @@
+{
+   "app_list": {
+      "app_launch_count": 0,
+      "last_app_launch_ping": "13040438400000000",
+      "last_launch_ping": "13040438400000000",
+      "launch_count": 0
+   },
+   "hardware_acceleration_mode_previous": true,
+   "http_original_content_length": "5206914",
+   "http_received_content_length": "5206914",
+   "local_state": {
+      "multiple_profile_prefs_version": 7
+   },
+   "policy": {
+      "last_statistics_update": "13040446535022514"
+   },
+   "profile": {
+      "info_cache": {
+
+      },
+      "last_active_profiles": [  ],
+      "last_used": "Default",
+      "preference_hashes": {
+         "E:\\eclipse\\ipg-iws-autotest\\src\\test\\resources\\data\\lifesaver\\browserProfiles\\seleniumOnChrome\\Default": {
+            "browser": {
+               "show_home_button": "A6F71975D92C2F55EBACA3A4209E957867C7AD8AF3917C50C8198978DB26EEB3"
+            },
+            "default_search_provider": {
+               "keyword": "89D6292D5A5126F66119AF5EC2B946DB61B2C2B0EF0BB805BE76F6E207C22DF9",
+               "name": "E5FDE8CC875B9EED96E8C0D1C40334F7999DC1DFD122CE03D638641201DCDC11",
+               "search_url": "73B6DA48E53C9AD12295E44E3D31AE210A6AC4415BD9533E2D2129259897985D"
+            },
+            "extensions": {
+               "known_disabled": "3DA129827CF80DACE66DB99BF6A3381DB49D0BC670BF7C2AE0E595A58B509D83",
+               "settings": "791E689681821C4F955BE4E0BDBB354F45BE9110D3F90DF603F940D66C0BABF9"
+            },
+            "google": {
+               "services": {
+                  "last_username": "351CBEDC33D3DA1AC0BBDDB8EC621A126DFB5286FDB6497E2DB1E2B82E5E3F4A"
+               }
+            },
+            "homepage": "0BBE8CF5CD8B579731212BFE148F32EBD8BC8EA7DF3B2F71AA1D98AAC113CB91",
+            "homepage_is_newtabpage": "6E3BC334F98AFD3A405BBA4A1191D48FA93A1790BAF5008B3E94145AE6D8B924",
+            "pinned_tabs": "977560042B88D0269D434BA196A4114905A639AE51DE8522700CB4CBD3809210",
+            "profile": {
+               "reset_prompt_memento": "D0B18DCC6607D1EB43BFEF0DC37410E3E4DDBDF7CB9E6AE3759C741D086F6FEB"
+            },
+            "search_provider_overrides": "51E8B6E9C7511F670A9E394C9F45C5A1DA867C1D48F89645E7D32922576CFAB6",
+            "session": {
+               "restore_on_startup": "DB5A5E3D3467429FDA4505744386BEA353DDE61D5511E8B06E09AFA300AF5BE7",
+               "startup_urls": "7681D322B84959E00CB00E2A5EFD3E29BD0A27BE224AB80E98F2EA4DA924CA9F"
+            }
+         }
+      }
+   },
+   "shutdown": {
+      "num_processes": 4,
+      "num_processes_slow": 0,
+      "type": 1
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1395972935",
+      "launch_count": "11",
+      "page_load_count": "104"
+   },
+   "user_experience_metrics": {
+      "client_id": "A06959BE-0889-4E38-947D-9F2D0BA1734E",
+      "client_id_timestamp": "1395972935",
+      "low_entropy_source": 6569,
+      "session_id": 10,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 5,
+         "debugger_not_present": 11,
+         "debugger_present": 0,
+         "execution_phase": 700,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1396003404",
+         "launch_count": 11,
+         "launch_time_sec": "1396000717",
+         "page_load_count": 104,
+         "plugin_stats2": [  ],
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1394809075",
+         "stats_version": "33.0.1750.154"
+      }
+   },
+   "was": {
+      "restarted": false
+   }
+}
